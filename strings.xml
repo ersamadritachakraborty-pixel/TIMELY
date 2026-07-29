@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timely</string>
+    <string name="tagline">Right before it\'s too late.</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="title_hint">What do you need to remember?</string>
+    <string name="note_hint">Add a note (optional)</string>
+    <string name="pick_date">Date</string>
+    <string name="pick_time">Time</string>
+    <string name="priority">Priority</string>
+    <string name="low">Low</string>
+    <string name="normal">Normal</string>
+    <string name="high">High</string>
+    <string name="save">Save Reminder</string>
+    <string name="title_required">Please add a title</string>
+    <string name="pick_future_time">Please pick a time in the future</string>
+    <string name="empty_state_title">No reminders yet</string>
+    <string name="empty_state_subtitle">Tap + to create your first reminder</string>
+    <string name="delete">Delete</string>
+</resources>
